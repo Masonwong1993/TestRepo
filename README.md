@@ -1,1 +1,1 @@
-The repo created for git assignment
+The repo is created for git assignment
